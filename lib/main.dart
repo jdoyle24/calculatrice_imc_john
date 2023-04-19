@@ -1,9 +1,8 @@
 import 'package:flutter/material.dart';
-<<<<<<< HEAD
-=======
+
 import 'Input_page.dart';
 
->>>>>>> edf9395 (Initial commit)
+
 
 void main(){
   runApp(CalculIMC());
